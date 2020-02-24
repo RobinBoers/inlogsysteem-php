@@ -1,0 +1,23 @@
+body {
+    margin:auto;
+    width:80%;
+    font-family: sans-serif;
+}
+nav ul li {
+    list-style: none;
+    display: inline;
+    padding-right:30px;
+}
+a {
+    color:royalblue !important;
+    text-decoration: none;
+}
+label {
+    display: block;
+}
+input {
+    border: 2px solid royalblue;
+    border-radius: 5px;
+    padding:10px;
+    margin-bottom:5px;
+}
